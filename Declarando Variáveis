@@ -1,0 +1,11 @@
+//Etapa 2: declarar uma variável e atribuir um valor a ela
+
+string firstName;
+firstName = "Rafaela";
+Console.WriteLine(firstName);
+firstName = "Lily";
+Console.WriteLine(firstName);
+firstName = "Chris";
+Console.WriteLine(firstName);
+firstName = "Alice";
+Console.WriteLine(firstName);
