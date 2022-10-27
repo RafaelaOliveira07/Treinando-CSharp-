@@ -1,0 +1,12 @@
+//minha resposta:
+
+Console.WriteLine("This is the first line.");
+Console.WriteLine("This is the second line.");
+
+//Ou, conforme Solução: Esse código é meramente uma possível solução, porque não especificamos qual técnica deve ser aplicada a qual linha de saída. 
+No entanto, você deve ter usado os métodos Console.WriteLine() e Console.Write() para produzir a saída desejada.
+
+Console.WriteLine("This is the first line");
+Console.Write("This is");
+Console.Write("the second");
+Console.Write("line.");
