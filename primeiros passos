@@ -1,0 +1,6 @@
+Console.WriteLine("Hello World!");
+Console.Write ("congrats!");
+Console.Write (" ");
+Console.Write ("U Wrote ur first lines of code in C#");
+Console.Write (" ");
+Console.WriteLine ("Aprendendo C# :)");
