@@ -1,0 +1,12 @@
+//Etapa 1: Gravar um literal char no console
+Console.WriteLine('b');
+
+//Etapa 2: Gravar um literal int no console
+Console.WriteLine(123);
+
+//Etapa 3: Gravar um literal decimal no console
+Console.WriteLine(19.8m);
+
+//Etapa 4: Gravar um literal bool no console
+Console.WriteLine(true);
+Console.WriteLine(false);
