@@ -1,0 +1,15 @@
+//Etapa 1: escrever o código no Editor do .NET para exibir uma mensagem
+//Hello, Bob! You have 3 messages in your inbox. The temperature is 34.4 celsius.
+
+string Name = "Bob";
+int messages = 3;
+decimal temperature = 34.4m;
+
+Console.Write("Hello, ");
+Console.Write(Name);
+Console.Write("! You have ");
+Console.Write(messages);
+Console.Write(" messages in your inbox. ");
+Console.Write("The temperature is ");
+Console.Write(temperature);
+Console.Write(" celsius.");
